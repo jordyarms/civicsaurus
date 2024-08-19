@@ -10,29 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Stock 1',
+    title: 'Principles',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Message 1
+        Discover the core values and guiding principles that underpin effective civic tech projects. Learn how to center your work on user needs, embrace openness and transparency, iterate responsively, and build sustainable solutions.
       </>
     ),
   },
   {
-    title: 'Stock 2',
+    title: 'Ways of Working',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Message two, check&apos;ll <code>codebase</code> considerations
+        Explore the invisible design activities that support and enhance your project throughout its lifecycle. From setting a clear vision to building strong relationships, these practices will help you navigate complex challenges and drive meaningful change.
       </>
     ),
   },
   {
-    title: 'Stock 3',
+    title: 'Project Lifecycle',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extensible
+        Follow our adapted double diamond approach to guide your project from initial concept to real-world impact. Learn key activities and considerations for each phase: Explore, Reframe, Create, and Catalyze.
       </>
     ),
   },

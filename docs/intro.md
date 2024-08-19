@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Civic Tech Playbook, a core component of the Civic Tech Toronto Toolkit. This comprehensive resource is designed to guide you through the process of creating, developing, and implementing impactful civic technology projects. Whether you're a seasoned practitioner or new to the field, this playbook offers valuable insights, best practices, and practical advice to help you navigate the exciting world of civic tech.
 
-## Getting Started
+![Hero Image](./assets/civictechtogether.png)
 
-Get started by **creating a new site**.
+**Our playbook is organized into three key sections**:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. [Principles](category/1-principles) – Discover the core values and guiding principles that underpin effective civic tech projects. Learn how to center your work on user needs, embrace openness and transparency, iterate responsively, and build sustainable solutions.
+2. [Ways of Working](category/2-ways-of-working) – Explore the invisible design activities that support and enhance your project throughout its lifecycle. From setting a clear vision to building strong relationships, these practices will help you navigate complex challenges and drive meaningful change.
+3. [Project Lifecycle](category/3-project-lifecycle) – Follow our adapted double diamond approach to guide your project from initial concept to real-world impact. Learn key activities and considerations for each phase: Explore, Reframe, Create, and Catalyze.
 
-### What you'll need
+Each section provides practical guidance, tips, and real-world examples to help you apply these concepts to your own civic tech projects. Remember, civic tech is about more than just building software—it's about creating positive change in our communities through collaborative, user-centered, and impactful solutions.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+We encourage you to explore each section, adapt the guidance to your specific context, and contribute your own experiences and insights to the ever-growing field of civic technology.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Let's build a better future for our communities, together!

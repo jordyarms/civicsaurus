@@ -76,7 +76,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Toolkit',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -93,39 +93,36 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Toolkit',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
+          title: 'Updates',
           items: [
             {
               label: 'Blog',
               to: '/blog',
-            },
+            }
+          ],
+        }, 
+        {
+          title: 'Friends',
+          items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/jordyarms/civicsaurus',
-            },
+              label: 'CTTO (our home)',
+              href: 'http://civictech.ca',
+            }
+          ],
+        },
+        {
+          title: 'Connect',
+          items: [
+            {
+              label: 'Project Slack',
+              to: 'https://civictechto.slack.com/archives/C0739GZADL6',
+            }
           ],
         },
       ],
