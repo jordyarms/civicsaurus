@@ -19,3 +19,12 @@ Each section provides practical guidance, tips, and real-world examples to help 
 We encourage you to explore each section, adapt the guidance to your specific context, and contribute your own experiences and insights to the ever-growing field of civic technology.
 
 Let's build a better future for our communities, together!
+
+```
+               __
+              / _)
+     _.----._/ /
+    /         /
+ __/ (  | (  |
+/__.-'|_|--|_|
+```

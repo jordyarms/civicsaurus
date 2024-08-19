@@ -1,3 +1,8 @@
+This is a stock docusaurus build for the Civic Tech Toolkit project! 
+We're in early stages of the project just getting set up, looking forward to having you come back soon!
+
+
+---
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
