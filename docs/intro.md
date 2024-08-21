@@ -21,7 +21,7 @@ We encourage you to explore each section, adapt the guidance to your specific co
 Let's build a better future for our communities, together!
 
 ```
-yes!
+yes! It works
                __
               / _)
      _.----._/ /
