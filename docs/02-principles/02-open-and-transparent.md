@@ -1,7 +1,6 @@
 ---
 title: 1.2 Open and Transparent 
 description: Embrace openness in processes, data, and code. Foster trust and collaboration by sharing knowledge, inviting participation, and maintaining transparency throughout the project lifecycle.
-sidebar_position: 2
 ---
 
 Openness and transparency are cornerstone principles in civic tech. They involve sharing our work, processes, and decision-making openly with the community, fostering trust, collaboration, and shared ownership of civic solutions.

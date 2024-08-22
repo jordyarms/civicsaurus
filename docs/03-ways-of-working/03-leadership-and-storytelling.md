@@ -1,7 +1,6 @@
 ---
 title: 2.3 Leadership and Storytelling
 description: Cultivate effective leadership practices and craft compelling narratives that inspire action, drive engagement, and communicate the value of your work.
-sidebar_position: 3
 tags: 
   - storytelling
 ---

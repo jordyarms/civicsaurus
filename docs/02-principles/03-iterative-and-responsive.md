@@ -1,7 +1,6 @@
 ---
 title: 1.3 Iterative and Responsive
 description: Adopt an agile mindset, continuously learning and adapting. Respond to community feedback and changing needs by regularly testing and refining solutions.
-sidebar_position: 3
 ---
 
 Being iterative and responsive in civic tech means adopting an agile mindset, continuously learning, and adapting our solutions. This principle emphasizes the importance of flexibility, regular feedback loops, and incremental improvements to meet evolving community needs.

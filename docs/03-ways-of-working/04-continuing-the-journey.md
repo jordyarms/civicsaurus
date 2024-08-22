@@ -1,7 +1,6 @@
 ---
 title: 2.4 Continuing the Journey
 description: Embrace continuous learning and adaptation, ensuring your project remains relevant, impactful, and responsive to evolving community needs.
-sidebar_position: 4
 ---
 
 Continuing the journey in civic tech involves embracing continuous learning, adaptation, and evolution of your project. This activity ensures your work remains relevant, impactful, and responsive to the changing needs of your community over time.

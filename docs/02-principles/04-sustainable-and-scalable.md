@@ -1,7 +1,6 @@
 ---
 title: 1.4 Sustainable and Scalable 
 description: Design solutions with longevity and growth in mind. Create projects that can be maintained, expanded, and replicated to maximize long-term impact and resource efficiency.
-sidebar_position: 4
 ---
 
 Creating sustainable and scalable solutions in civic tech means designing projects with longevity and growth in mind. This principle emphasizes building solutions that can be maintained over time, expanded to serve more people, and potentially replicated in other contexts.

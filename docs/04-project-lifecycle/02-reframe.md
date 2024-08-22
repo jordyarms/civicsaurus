@@ -1,7 +1,6 @@
 ---
 title: 3.2 Reframe 
 description: Synthesize your learnings to define the core problem and opportunity. Challenge assumptions and reframe the issue to ensure you're addressing the right challenge.
-sidebar_position: 2
 ---
 
 The Reframe phase is about synthesizing your research findings to clearly define the problem you're addressing. It involves challenging assumptions, identifying core issues, and setting a clear direction for your project.

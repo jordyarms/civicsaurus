@@ -1,7 +1,6 @@
 ---
 title: 3.3 Create 
 description: Generate a wide range of potential solutions. Prototype, test, and iterate to develop the most promising ideas into viable civic tech solutions.
-sidebar_position: 3
 ---
 
 The Create phase is where you generate, prototype, and test potential solutions to address the problem you've defined. It's a highly iterative process that involves creative ideation, rapid prototyping, and continuous user feedback.

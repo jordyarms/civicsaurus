@@ -1,7 +1,6 @@
 ---
 title: 3.1 Explore 
 description: Dive deep into understanding the community, the challenge, and the context. Cast a wide net to gather diverse perspectives and insights.
-sidebar_position: 1
 ---
 
 The Explore phase is about discovering and understanding the context of your project. It involves in-depth research to uncover user needs, community dynamics, and the broader ecosystem in which your civic tech solution will operate.

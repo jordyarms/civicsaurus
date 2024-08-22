@@ -1,7 +1,6 @@
 ---
 title: 3.4 Catalyze 
 description: Implement your solution, measure its impact, and scale its reach. Focus on adoption, sustainability, and continuous improvement.
-sidebar_position: 4
 ---
 
 The Catalyze phase is about bringing your solution to life, scaling its impact, and ensuring its long-term sustainability. This phase focuses on implementation, adoption, and continuous improvement of your civic tech project.

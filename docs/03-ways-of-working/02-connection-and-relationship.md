@@ -1,7 +1,6 @@
 ---
 title: 2.2 Connection and Relationship
 description: Build strong, collaborative relationships within your team and with the broader community, fostering an ecosystem of support and co-creation.
-sidebar_position: 2
 ---
 
 Connection and relationship building focuses on fostering strong, collaborative bonds within your team and with the broader community. This activity creates an ecosystem of support and co-creation essential for successful civic tech projects.

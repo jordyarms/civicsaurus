@@ -1,7 +1,6 @@
 ---
 title: 1.1 User Centered and Inclusive
 description: Put the diverse needs of all community members at the heart of every project. Ensure that solutions are accessible, equitable, and beneficial to the broadest possible audience.
-sidebar_position: 1
 ---
 
 Being user-centered and inclusive in civic tech means designing solutions that work for all members of the community, regardless of their background, abilities, or tech-savviness. This principle ensures our projects address real needs and create value for the entire community.

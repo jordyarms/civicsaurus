@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Welcome
 
 Welcome to the Civic Tech Playbook, a core component of the Civic Tech Toronto Toolkit. This comprehensive resource is designed to guide you through the process of creating, developing, and implementing impactful civic technology projects. Whether you're a seasoned practitioner or new to the field, this playbook offers valuable insights, best practices, and practical advice to help you navigate the exciting world of civic tech.

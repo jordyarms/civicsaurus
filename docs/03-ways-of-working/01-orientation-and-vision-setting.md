@@ -1,7 +1,6 @@
 ---
 title: 2.1 Orientation and Vision Setting
 description: Establish a clear direction and shared understanding for your project, aligning team members and stakeholders around common goals and values.
-sidebar_position: 1
 ---
 Orientation and vision setting establishes a clear direction and shared understanding for your civic tech project, aligning team members and stakeholders around common goals and values.
 
