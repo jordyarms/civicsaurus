@@ -19,7 +19,7 @@ Let's build a better future for our communities, together!
 ```
 yes! It works
                __
-              / _)
+              / ·_)
      _.----._/ /
     /         /
  __/ (  | (  |
