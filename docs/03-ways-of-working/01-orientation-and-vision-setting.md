@@ -1,27 +1,23 @@
 ---
-title: 2.1 Orientation and Vision Setting
-description: Establish a clear direction and shared understanding for your project, aligning team members and stakeholders around common goals and values.
+title: 2.1 Vision Setting
+description: Establish a clear direction for your project, and align team members and stakeholders around common goals and values.
 ---
-Orientation and vision setting establishes a clear direction and shared understanding for your civic tech project, aligning team members and stakeholders around common goals and values.
+Civic tech projects seldom move in a straight line (and that’s OK\!). But successful projects invest the time up front to craft a clear and compelling vision and roadmap for their work.
 
-## Why it matters:
+## Why it matters for project success:
 
-- Creates a unified sense of purpose among team members and stakeholders
-- Helps prioritize efforts and resources effectively
-- Provides a framework for decision-making throughout the project
-- Inspires and motivates participants by connecting day-to-day work to larger goals
-- Facilitates clearer communication about the project's intentions and expected outcomes
+Having a vision for your project, with goals and milestones, will help you stay motivated and prioritize your efforts. There are lots of little decisions to make throughout your project and a clear vision can help you align on the best way forward. 
 
-## How to practice:
+A clear and compelling vision also helps you attract volunteers or convince stakeholders to lend you their time or resources. 
 
-1. **Define your purpose**:  Clearly articulate why your project exists and what specific community need it addresses.
-2. **Set clear goals**:  Establish concrete, measurable objectives that align with your overall purpose.
-3. **Develop a shared vision**:  Collaboratively create a compelling vision of the future your project aims to bring about.
-4. **Identify core values**:  Define the principles that will guide your project's decisions and actions.
-5. **Analyze context**:  Research the broader ecosystem in which your project operates, including existing initiatives and potential challenges.
-6. **Create alignment**:  Ensure all team members and key stakeholders understand and buy into the project's direction.
-7. **Revisit regularly**:  Review and refine your orientation as you learn and as circumstances change.
+## What it looks like in practice:
 
-:::note[Remember]
-Orientation and vision setting is an ongoing activity. Continuously align your work with your established direction, always keeping your community's needs at the center.
-:::
+1. **Define your purpose and vision:**  Work as a team to articulate why your project exists, what community need it addresses and what principles will guide you. You should be able to summarize this in a single sentence, e.g. “"We're building a tool to help residents easily report and track local infrastructure issues, making our city more responsive and transparent."
+2. **Set clear goals and milestones:**  Establish concrete, measurable objectives that align with your overall purpose. And even though your team is volunteering their time, don’t be afraid of setting deadlines.
+3. **Revisit regularly:**  Make time to review and refine your vision and roadmap, so you can adapt to changes in circumstance or incorporate what you’re learning. Think of your vision as a set of [strong opinions, weakly held](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364).
+
+ ## Resources to help:
+
+* INSERT: Product roadmap templates ([like this](https://productschool.com/resources/templates/product-roadmap)), 
+* INSERT: guides on writing vision statements ([like this](https://thinkproductgroup.com/what-is-a-product-vision-statement-how-to-write-one-that-inspires-your-team/) 
+* INSERT: or [this](https://www.notion.so/blog/product-vision-boards-for-teams))

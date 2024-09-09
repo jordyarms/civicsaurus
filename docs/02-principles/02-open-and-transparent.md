@@ -1,28 +1,28 @@
 ---
 title: 1.2 Open and Transparent 
-description: Embrace openness in processes, data, and code. Foster trust and collaboration by sharing knowledge, inviting participation, and maintaining transparency throughout the project lifecycle.
+description: Embrace openness in processes, data, code and content. Foster trust and collaboration by sharing knowledge and inviting participation. Strive to be ‘open source’ not only with your code, but also with your ideas. 
 ---
 
-Openness and transparency are cornerstone principles in civic tech. They involve sharing our work, processes, and decision-making openly with the community, fostering trust, collaboration, and shared ownership of civic solutions.
+Openness and transparency are cornerstones of civic tech. They involve sharing our work, processes, and decision-making openly with the community, fostering trust, collaboration, and shared ownership of civic solutions.
 
-## Why it matters:
+## Why it matters for project success:
 
-- Builds trust between projects and the community
-- Encourages collaboration and knowledge sharing
-- Enables wider participation and contribution
-- Ensures accountability in the use of resources
-- Facilitates project sustainability and replication
+Being open is one of the best ways for civic tech projects to scale their impact. When we share code, ideas and findings publicly, we make it possible for others to use and adapt that knowledge for future projects. And even if your project doesn’t launch, your early findings and code can help someone else pick up where you left off!
 
-## What it means:
+Working in the open also creates opportunities for more people to engage with your project, and can surface insights from valuable – if unexpected – places. 
+
+## What it means in practice:
 
 1. **Open Source Development**:  Make your project's source code publicly available and encourage community contributions.
 2. **Open Data**:  Use and produce open data, ensuring it's accessible and understandable to the public.
-3. **Transparent Decision-Making**: Clearly communicate project goals, progress, and the rationale behind key decisions.
-4. **Clear Communication**:  Use plain language to explain your project and maintain open channels for community feedback.
-5. **Open Collaboration**:  Create opportunities for diverse participation throughout the project lifecycle.
-6. **Proper Licensing**:  Use appropriate open licenses and give proper attribution to foster a culture of sharing.
+3. **Open Collaboration**:  Create opportunities for diverse participation throughout the project by working and communicating in open places.
 
+## Resources to help:
 
-:::note[Remember]
-Openness is not just about making things public, but about creating an environment where collaboration and shared ownership can thrive.
-:::
+* INSERT: Friendly intro to Github
+* INSERT: Guide to CC licensing
+* INSERT: links to the Toronto open data portal
+* [“how to work open” by Matt Thompson](https://openmatt.org/2011/04/06/how-to-work-open/)
+* [the Working Open Project Guide](https://mozillascience.github.io/leadership-training/index.html) from Mozilla
+* INSERT: explainer on open source
+* INSERT: how to use Slack for project coordination

@@ -1,27 +1,23 @@
 ---
 title: 1.4 Sustainable and Scalable 
-description: Design solutions with longevity and growth in mind. Create projects that can be maintained, expanded, and replicated to maximize long-term impact and resource efficiency.
+description: Where possible, design solutions with longevity and growth in mind. Create projects that can be maintained, expanded, and replicated to increase your long-term (and long-tail) impact.
 ---
 
 Creating sustainable and scalable solutions in civic tech means designing projects with longevity and growth in mind. This principle emphasizes building solutions that can be maintained over time, expanded to serve more people, and potentially replicated in other contexts.
 
-## Why it matters:
+## Why it matters for project success:
 
-- Ensures long-term impact of civic tech projects
-- Maximizes the return on invested time and resources
-- Allows successful solutions to grow and benefit more people
-- Facilitates knowledge transfer and replication of effective models
-- Builds resilience in civic tech ecosystems
+Projects don’t end at launch; the most successful civic tech projects are ones that continue to deliver impact over time, get handed off to new teams and inspire others to do similar work. Taking time at the start of a project to think about the end of a project helps teams prepare for those milestones. 
 
-## What it means:
+## What it means in practice:
 
-1. **Long-term Planning**:  Consider the long-term viability of your solution from the start, including maintenance and evolution.
-2. **Modular Design**:  Build solutions in a modular way, allowing for easier maintenance, updates, and expansion.
-3. **Documentation**:  Create clear, comprehensive documentation to support ongoing development and potential replication.
-4. **Knowledge Transfer**:  Implement processes for sharing knowledge within the team and with the wider community.
-5. **Resource Efficiency**:  Design solutions that make efficient use of available resources, both technical and human.
-6. **Replicability**:  Consider how your solution could be adapted or replicated in different contexts or communities.
+1. **Long-term Thinking**:  We encourage teams to start with ‘minimum viable’ projects, while also thinking about scaling up. What resources – technical or otherwise – will you need? What relationships would be beneficial? Is there a potential business model for your project? Would an organization or government department be able to take the project on in the future?
+2. **Documentation**:  Create clear, comprehensive documentation about as much of your project as possible – this isn’t just about documenting code, but also research findings, learnings about project planning and more. You never know who might find that information useful in the future!
+3. **Knowledge Transfer**:  Documenting your project is crucial, but how will you share that knowledge? Look for opportunities to connect with stakeholders and pass on your learnings, your hopes and your documents – you can start by presenting about your project at a hacknight! 
 
-:::note[Remember]
-Sustainability isn't just about keeping a project running; it's about creating lasting value and enabling growth and adaptation over time.
-:::
+## Resources to help:
+
+* INSERT: An intro to documenting code
+* [Business Model Canvas](https://www.cognidox.com/blog/2016/10/scale-process-gap-business-model-canvas)
+* INSERT: youtube clips from project presentations at hacknights,
+* [The Knight Foundation’s report on scaling civic tech](https://knightfoundation.org/wp-content/uploads/2020/03/Scaling\_Civic\_Tech\_final.pdf)

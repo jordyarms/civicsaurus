@@ -1,25 +1,26 @@
 ---
 title: 1.1 User Centered and Inclusive
-description: Put the diverse needs of all community members at the heart of every project. Ensure that solutions are accessible, equitable, and beneficial to the broadest possible audience.
+description: Put the needs of community members at the heart of every project. Ensure that solutions are accessible, equitable, and grounded in user needs. In civic tech, we try to *build with not for* our communities.
 ---
 
-Being user-centered and inclusive in civic tech means designing solutions that work for all members of the community, regardless of their background, abilities, or tech-savviness. This principle ensures our projects address real needs and create value for the entire community.
+Being user-centered and inclusive means designing solutions that work for all members of the community, regardless of their background, abilities, or tech-savviness. This principle ensures our projects start with real needs or challenges, and create value for the community.
 
-## Why it matters:
+## Why it matters for project success:
 
-- Increases project impact and adoption
-- Ensures equitable access to civic solutions
-- Builds trust between technology creators and the community
-- Leads to more robust and versatile solutions
+Having real users in the community – whether individuals or organizations – is a key ingredient for successful civic tech projects. They can validate whether you’re solving a real problem and provide knowledge or relationships to drive your work forward. Connecting with your users helps you focus your efforts or decide your next step when your project (inevitably) gets a bit stuck. 
 
-## What it means:
+## What it means in practice:
 
-1. **Diverse User Research**:  Engage with a wide range of community members, including underrepresented groups, using various research methods.
-2. **Inclusive Design**:  Create solutions that are accessible to people with different abilities, devices, and levels of digital literacy.
-3. **Co-design and Participation**:  Involve community members in the design process from the start and create opportunities for ongoing participation.
-4. **Continuous User Testing**:  Regularly test with diverse user groups and iterate based on feedback and observed behaviors.
-5. **Measure Inclusivity**:  Set inclusivity goals, monitor usage data, and seek qualitative feedback to ensure your solution benefits all intended users.
+1. **Doing User Research**:  Engage with a wide range of community members, including underrepresented groups, using various research methods.
+2. **Designing for Accessibility**:  Create solutions that are accessible to people with different abilities, devices, and levels of digital literacy.
+3. **Measuring Inclusivity**:  Set inclusivity goals, monitor usage data, and seek qualitative feedback to ensure your solution benefits all intended users.
 
-:::note[Remember]
-True inclusivity goes beyond accessibility. It's about creating solutions that resonate with and empower all members of the community, fostering a sense of ownership and engagement.
-:::
+## Resources to help:
+
+* [‘build with, not for’](https://medium.com/organizer-sandbox/building-technology-with-not-for-communities-an-engagement-guide-for-civic-tech-b8880982e65a)
+* INSERT: Templates for doing user research
+* INSERT: guides for usability testing
+* INSERT: easy to understand guides to WCAG (maybe from a11y)
+* INSERT: example metrics for inclusion
+* [Human Centred Design and User Research with Ariel Sim](https://learn.marsdd.com/article/human-centred-design-and-user-research-with-ariel-sim/)  
+* [How to Craft Buyer and User Personas to Benefit Your Business](https://learn.marsdd.com/article/how-to-craft-buyer-and-user-personas-to-benefit-your-business/)
