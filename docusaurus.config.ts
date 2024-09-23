@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Toolkit Alpha',
-  tagline: 'Shazam! A website.',
+  title: 'Toolkit Historical',
+  tagline: 'This project has been moved to a CTTO GitHub instance!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
